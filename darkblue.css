@@ -1,10 +1,23 @@
 ﻿body {
 
+    background-color: #488437;
 }
 
 #wrap
 {
     font-style: italic;
     font-family:'Brushstroke', fantasy, serif;
+ 
     
+  
+   
+    
+}
+
+#sonnet{
+   
+   margin: auto;
+    text-align: left;
+    width: 25%;
+   
 }
